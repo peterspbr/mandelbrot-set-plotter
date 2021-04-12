@@ -1,3 +1,3 @@
 # mandelbrotset-plotter
 
-Formula: zₙ = zₙ² + 1
+Formula: zₙ → zₙ² + 1
